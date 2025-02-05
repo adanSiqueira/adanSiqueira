@@ -9,6 +9,8 @@
 
 I am a brazilian Data Analyst, former Officer of the Brazilian Army, enthusiast of the study of Data Science and always searching for and studying ways to use programming, ETL and Visualization tools to add value to people by organizing, clarifying and extracting valuable insights from Data.  
 </ul>
+
+<br>
 I am passionate about technology and personal development. Thus, I am always looking for new ways of improvement, through books, media and others. I also created an Medium blog, where I post stuff about statistics and Data Science. 
 
 
