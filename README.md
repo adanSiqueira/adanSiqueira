@@ -1,17 +1,59 @@
- <div>
-  <p align="left">
-    <a href="https://medium.com/@adansiqueira" target="_blank"><img src="https://img.shields.io/badge/-Medium%20Blog-%23EA4335?style=for-the-badge&logo=medium&logoColor=white" 
-             alt="Medium Blog Badge"></a>
-    <a href="https://www.linkedin.com/in/adan-siqueira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+## 👋 Hello, I'm Adan.
 
-### Hello, I'm Adan.
+[![Medium Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@adansiqueira)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adan-siqueira/)
 
-I am a brazilian Data Analyst, former Officer of the Brazilian Army, enthusiast of the study of Data Science and always searching for and studying ways to use programming, ETL and Visualization tools to add value to people by organizing, clarifying and extracting valuable insights from Data.  
-</ul>
+---
 
-<br>
-I am passionate about technology and personal development. Thus, I am always looking for new ways of improvement, through books, media and others. I also created an Medium blog, where I post stuff about statistics and Data Science. 
+## 🙋‍♂️ About Me
 
+I'm a Brazilian 🇧🇷 Data Scientist, former Officer of the Brazilian Army 🎖️, and an enthusiastic explorer of the Data Science universe 📊. I am passionate about using programming, ETL pipelines, and data visualization tools to **organize**, **clarify**, and **extract valuable insights** from complex datasets, ultimately helping people and businesses make better decisions.
 
-</ul>
+I also share my thoughts and knowledge on **statistics** and **Data Science** through my [Medium blog](https://medium.com/@adansiqueira).
+
+In my practical experience, I have developed **interactive dashboards** for sales analysis, created **automated data pipelines** with Python and Object-Oriented Programming principles, and built **data-driven applications** to support business decisions, such as customer segmentation through **unsupervised learning** techniques like K-means. Additionally, I have solved **real-world analytical case studies** for major companies, applying statistical modeling and machine learning to extract actionable insights from marketing and CRM datasets.
+
+---
+
+## 💡 Skills & Tools 👩‍💻
+
+**Languages:**  
+Python, SQL, DAX  
+
+**Data Analysis & Visualization:**  
+Pandas, NumPy, R, Matplotlib, Seaborn, Plotly, Power BI  
+
+**Statistical Modeling:**  
+Statsmodels, Prophet  
+
+**Machine Learning & Deep Learning:**  
+Scikit-learn, XGBoost, TensorFlow  
+
+**Notebooks & Platforms:**  
+Jupyter Notebook, Databricks, Google Cloud Platform  
+
+**Big Data & Cloud:**  
+Apache Spark  
+
+---
+
+## ✍️ I write about
+
+I regularly publish articles on my [Medium blog](https://medium.com/@adansiqueira) about:
+
+- **Statistics**  
+- **Data Science techniques**  
+- **Practical programming tips**  
+
+---
+
+## 🚀 Let's connect!
+
+If you’re passionate about data, technology, or just want to chat about new ideas, feel free to connect with me:
+
+[![Medium Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@adansiqueira)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adan-siqueira/)
+
+---
+
+Thanks for visiting my profile! 🚀
