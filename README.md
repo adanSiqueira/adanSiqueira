@@ -20,7 +20,7 @@ In my practical experience, I have developed **interactive dashboards** for sale
 Python, SQL, DAX  
 
 **Data Analysis & Visualization:**  
-Pandas, NumPy, R, Matplotlib, Seaborn, Plotly, Power BI  
+Pandas, NumPy, Matplotlib, Seaborn, Plotly, Streamlit, Dash, Power BI  
 
 **Statistical Modeling:**  
 Statsmodels, Prophet  
