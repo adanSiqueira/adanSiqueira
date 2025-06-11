@@ -16,6 +16,9 @@ In my practical experience, I have developed **interactive dashboards** for sale
 
 ## 💡 Skills & Tools 👩‍💻
 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
+          
+
 **Languages:**  
 Python, SQL, DAX  
 
