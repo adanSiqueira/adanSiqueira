@@ -70,3 +70,5 @@ I regularly publish articles on my [Medium blog](https://medium.com/@adansiqueir
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adanSiqueira&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=adanSiqueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+![adanSiqueira's GitHub stats](https://github-readme-stats.vercel.app/api?username=adanSiqueira&theme=dark&show_icons=true)
