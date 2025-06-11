@@ -65,13 +65,8 @@ I regularly publish articles on my [Medium blog](https://medium.com/@adansiqueir
 
 ---
 
-## 🚀 Let's connect!
-
-If you’re passionate about data, technology, or just want to chat about new ideas, feel free to connect with me:
-
-[![Medium Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@adansiqueira)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adan-siqueira/)
-
----
-
-Thanks for visiting my profile! 🚀
+<div>
+<a href="https://github.com/adanSiqueira">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
