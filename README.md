@@ -36,7 +36,7 @@ Jupyter Notebook, Databricks, Google Cloud Platform
 Apache Spark  
 
 <div style="display: flex; justify-content: center;">
-  <div style="display: flex; gap: 16px; align-items: center;">
+  <div style="display: flex; gap: 32px; align-items: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" height="50">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg" width="50" height="50">
