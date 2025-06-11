@@ -35,6 +35,7 @@ Jupyter Notebook, Databricks, Google Cloud Platform
 **Big Data & Cloud:**  
 Apache Spark  
 
+
 <div style="display: flex; justify-content: center;">
   <div style="display: flex; gap: 40px; align-items: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" height="50">
