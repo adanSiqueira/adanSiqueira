@@ -16,7 +16,7 @@ In my practical experience, I have developed **interactive dashboards** for sale
 
 ## 💡 Skills & Tools 👩‍💻
 <div style="display: flex; justify-content: center;">
-  <div style="display: flex; gap: 40px; align-items: center;">
+  <div style="display: flex; gap: 80px; align-items: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" height="50">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-plain-wordmark.svg" width="50" height="50">          
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50">
