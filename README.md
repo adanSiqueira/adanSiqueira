@@ -50,12 +50,17 @@ Statsmodels, Prophet
 **Machine Learning & Deep Learning:**  
 Scikit-learn, XGBoost, TensorFlow  
 
+**MLOps & Workflow Orchestration**
+MLflow, Apache Airflow, Docker, Jenkins
+
 **Notebooks & Platforms:**  
 Jupyter Notebook, Databricks, Google Cloud Platform  
 
-**Big Data & Cloud:**  
-Apache Spark  
+**Big Data & Cloud**
+Apache Spark, Databricks
 
+**Development & Notebooks**
+Jupyter Notebook
 
 ## ✍️ I write about
 
