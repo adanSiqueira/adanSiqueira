@@ -10,8 +10,6 @@ I'm a Brazilian 🇧🇷 Data Scientist, former Officer of the Brazilian Army �
 
 I also share my thoughts and knowledge on **statistics** and **Data Science** through my [Medium blog](https://medium.com/@adansiqueira).
 
-In my practical experience, I have developed **interactive dashboards** for sales analysis, created **automated data pipelines** with Python and Object-Oriented Programming principles, and built **data-driven applications** to support business decisions, such as customer segmentation through **unsupervised learning** techniques like K-means. Additionally, I have solved **real-world analytical case studies** for major companies, applying statistical modeling and machine learning to extract actionable insights from marketing and CRM datasets.
-
 ---
 
 ## 💡 Skills & Tools 👩‍💻
