@@ -54,9 +54,11 @@ Scikit-learn, XGBoost, TensorFlow
 <br>
 MLflow, Apache Airflow, Docker, Jenkins
 <br>
+<br>
 **Big Data & Cloud:**
 <br>
 Apache Spark, Databricks
+<br>
 <br>
 **Development & Notebooks:**
 <br>
