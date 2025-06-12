@@ -1,11 +1,6 @@
 ## 👋 Hello, I'm Adan.
 
 [![Medium Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@adansiqueira) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adan-siqueira/)
-<div>
-<a href="https://github.com/adanSiqueira">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adanSiqueira&layout=compact&langs_count=7&theme=dark"/>
-</a>
-</div>
 
 ---
 
@@ -69,3 +64,10 @@ I regularly publish articles on my [Medium blog](https://medium.com/@adansiqueir
 - **Practical programming tips**  
 
 ---
+
+<div>
+<a href="https://github.com/adanSiqueira">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adanSiqueira&layout=compact&langs_count=7&theme=dark"/>
+</a>
+</div>
+
