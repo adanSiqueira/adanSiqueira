@@ -46,11 +46,16 @@ Pandas, NumPy, Matplotlib, Seaborn, Plotly, Streamlit, Dash, Power BI
 Statsmodels, Prophet  
 
 **Machine Learning & Deep Learning:**  
-Scikit-learn, XGBoost, TensorFlow  
+Scikit-learn, XGBoost, TensorFlow, NLTK, PyTorch, HuggingFace Transformers
 
 **MLOps & Workflow Orchestration:**
 <br>
 MLflow, Apache Airflow, Docker, Jenkins
+<br>
+<br>
+**Development & Deployment:**
+<br>
+Flask, Requests, FastAPI
 <br>
 <br>
 **Big Data & Cloud:**
