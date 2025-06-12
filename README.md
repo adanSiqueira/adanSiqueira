@@ -34,7 +34,6 @@ In my practical experience, I have developed **interactive dashboards** for sale
   </div>
 </div>
 <br>
-<br>
 
 **Languages:**  
 Python, SQL, DAX  
