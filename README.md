@@ -33,7 +33,8 @@ In my practical experience, I have developed **interactive dashboards** for sale
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" width="50" height="50"\>    
   </div>
 </div>
-
+<br>
+<br>
 
 **Languages:**  
 Python, SQL, DAX  
