@@ -52,7 +52,7 @@ Scikit-learn, XGBoost, TensorFlow, NLTK, PyTorch, HuggingFace Transformers
 
 **MLOps & Workflow Orchestration:**
 <br>
-MLflow, Apache Airflow, Docker, Jenkins
+MLflow, Apache Airflow, Docker, Jenkins, Gunicorn, CI/CD pipelines
 <br>
 <br>
 **Development & Deployment:**
@@ -62,12 +62,19 @@ Flask, Requests, FastAPI
 <br>
 **Big Data & Cloud:**
 <br>
-Apache Spark, Databricks
+Apache Spark, Databricks, Google Cloud Platform (App Engine, Compute Engine)
 <br>
 <br>
 **Development & Notebooks:**
 <br>
 Jupyter Notebook
+<br>
+<br>
+**Production Deployments**
+<br>
+*   APIs in Flask and FastAPI served with Gunicorn
+*   Machine Learning models deployed via Google Cloud App Engine
+*   Experiments tracked with MLflow
 
 ## ✍️ I write about
 
