@@ -7,8 +7,8 @@
 ## 🙋‍♂️ About Me
 
 Brazilian 🇧🇷 Data Scientist.<br>
-Former Officer of the Brazilian Army 🎖️, who migrated from military discipline to data discipline.
-<br>I rely on programming, ETL workflows, and principles of data and software engineering to make sense of messy, real-world datasets.
+<br>Former Officer of the Brazilian Army 🎖️, who migrated from military discipline to data discipline.
+<br>I rely on programming, ETL workflows, data and software engineering to make sense of messy, real-world datasets.
 
 Occasionally, I share my thoughts and knowledge on **statistics** and **Data Science** through my [Medium blog](https://medium.com/@adansiqueira).
 
