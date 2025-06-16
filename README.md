@@ -52,7 +52,7 @@ Scikit-learn, XGBoost, TensorFlow, NLTK, PyTorch, HuggingFace Transformers
 
 **MLOps & Workflow Orchestration:**
 <br>
-MLflow, Apache Airflow, Docker, Jenkins, Gunicorn, GitHub Actions CI/CD pipelines
+MLflow, Apache Airflow, Docker, Gunicorn, CI/CD pipelines(GitHub Actions and Jenkins)
 <br>
 <br>
 **Development & Deployment:**
