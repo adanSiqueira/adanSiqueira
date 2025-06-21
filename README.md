@@ -42,7 +42,7 @@ Occasionally, I share my thoughts and knowledge on **statistics** and **Data Sci
 Python, SQL, DAX  
 
 **Data Analysis & Visualization:**  
-Pandas, NumPy, Matplotlib, Seaborn, Plotly, Streamlit, Dash, Power BI  
+Pandas, NumPy, Matplotlib, Seaborn, Plotly, Streamlit, Dash, Gradio, Power BI  
 
 **Statistical Modeling:**  
 Statsmodels, Prophet  
