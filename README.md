@@ -32,8 +32,7 @@ Occasionally, I share my thoughts and knowledge on **statistics** and **Data Sci
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg" width="45" height="45">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" width="45" height="45">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" width="45" height="45">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" width="45" height="45">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="45" height="45">         
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" width="45" height="45">       
   </div>
 </div>
 <br>
@@ -52,7 +51,7 @@ Scikit-learn, XGBoost, TensorFlow, NLTK, PyTorch, HuggingFace Transformers
 
 **MLOps & Workflow Orchestration:**
 <br>
-MLflow, Apache Airflow, Docker, Gunicorn, CI/CD pipelines(GitHub Actions and Jenkins)
+MLflow, Apache Airflow, Docker, Gunicorn, CI/CD pipelines(GitHub Actions)
 <br>
 <br>
 **Development & Deployment:**
@@ -62,7 +61,7 @@ Flask, Requests, FastAPI
 <br>
 **Big Data & Cloud:**
 <br>
-Apache Spark, Databricks, Google Cloud Platform (App Engine, Compute Engine, Cloud Run)
+Apache Spark, Google Cloud Platform (App Engine, Compute Engine, Cloud Run)
 <br>
 <br>
 **Development & Notebooks:**
