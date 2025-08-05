@@ -38,7 +38,10 @@ Occasionally, I share my thoughts and knowledge on **statistics** and **Data Sci
 <br>
 
 **Languages:**  
-Python, SQL, DAX  
+Python, SQL, DAX
+
+**Webscraping and Data Extraction**
+Beautiful Soup, Selenium
 
 **Data Analysis & Visualization:**  
 Pandas, NumPy, Matplotlib, Seaborn, Plotly, Streamlit, Dash, Gradio, Power BI  
