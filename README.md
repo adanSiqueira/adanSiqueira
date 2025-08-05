@@ -40,7 +40,7 @@ Occasionally, I share my thoughts and knowledge on **statistics** and **Data Sci
 **Languages:**  
 Python, SQL, DAX
 
-**Webscraping and Data Extraction**
+**Web Scraping and Data Extraction**<br>
 Beautiful Soup, Selenium
 
 **Data Analysis & Visualization:**  
