@@ -1,18 +1,11 @@
-## 👋 Hello, I'm Adan.
-
-[![Medium Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@adansiqueira) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adan-siqueira/)
-
----
-
-## 🙋‍♂️ About Me
-
-Brazilian 🇧🇷 Data Scientist.<br>
+## Hello, I'm Adan. 
+Brazilian 🇧🇷 Data Scientist.
 <br>Former Officer of the Brazilian Army 🎖️, who migrated from military discipline to data discipline.
 <br>Making sense of any messy datasets 😉
 
 ---
 
-## 💡 Skills & Tools 👩‍💻
+## 💡 Skills & Tools 
 <div style="display: flex; justify-content: center;">
   <div style="display: flex; gap: 80px; align-items: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="45" height="45">
