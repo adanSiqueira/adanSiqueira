@@ -10,8 +10,6 @@ Brazilian 🇧🇷 Data Scientist.<br>
 <br>Former Officer of the Brazilian Army 🎖️, who migrated from military discipline to data discipline.
 <br>Making sense of any messy datasets 😉
 
-Occasionally, I share my thoughts and knowledge on **statistics** and **Data Science** through my [Medium blog](https://medium.com/@adansiqueira).
-
 ---
 
 ## 💡 Skills & Tools 👩‍💻
@@ -78,14 +76,6 @@ Jupyter Notebook
 *   APIs in Flask and FastAPI served with Gunicorn
 *   Machine Learning models deployed via Google Cloud App Engine
 *   Experiments tracked with MLflow
-
-## ✍️ I write about
-
-I regularly publish articles on my [Medium blog](https://medium.com/@adansiqueira) about:
-
-- **Statistics**  
-- **Data Science techniques**  
-- **Practical programming tips**  
 
 ---
 
