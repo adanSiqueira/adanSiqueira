@@ -63,12 +63,6 @@ Apache Spark, Google Cloud Platform (App Engine, Compute Engine, Cloud Run)
 <br>
 Jupyter Notebook
 <br>
-<br>
-**Production Deployments**
-<br>
-*   APIs in Flask and FastAPI served with Gunicorn
-*   Machine Learning models deployed via Google Cloud App Engine
-*   Experiments tracked with MLflow
 
 ---
 
