@@ -51,7 +51,7 @@ MLflow, Apache Airflow, Docker, Gunicorn, CI/CD pipelines(GitHub Actions)
 <br>
 **Development & Deployment:**
 <br>
-Flask, Requests, FastAPI
+Django, Flask, Requests, FastAPI
 <br>
 <br>
 **Big Data & Cloud:**
