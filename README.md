@@ -66,11 +66,5 @@ Jupyter Notebook
 
 ---
 
-<div>
-<a href="https://github.com/adanSiqueira">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adanSiqueira&layout=compact&langs_count=7&theme=dark"/>
-</a>
-</div>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adan-siqueira/)
 
