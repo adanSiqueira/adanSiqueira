@@ -39,7 +39,7 @@ Beautiful Soup, Selenium
 Pandas, NumPy, Matplotlib, Seaborn, Plotly, Streamlit, Dash, Gradio, Power BI  
 
 **Statistical Modeling:**  
-Statsmodels, Prophet  
+Statsmodels, Prophet , StatsForecast
 
 **Machine Learning & Deep Learning:**  
 Scikit-learn, XGBoost, TensorFlow, NLTK, PyTorch, HuggingFace Transformers
