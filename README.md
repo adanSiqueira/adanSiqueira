@@ -32,31 +32,33 @@ Brazilian 🇧🇷 Data Scientist.
 **Languages:**  
 Python, SQL, DAX
 
-**Web Scraping and Data Extraction**<br>
-Beautiful Soup, Selenium
-
 **Data Analysis & Visualization:**  
-Pandas, NumPy, Matplotlib, Seaborn, Plotly, Streamlit, Dash, Gradio, Power BI  
-
-**Statistical Modeling:**  
-Statsmodels, Prophet , StatsForecast
+Pandas, NumPy, Matplotlib, Seaborn, Plotly, Streamlit, Dash, Gradio, Power BI 
 
 **Machine Learning & Deep Learning:**  
 Scikit-learn, XGBoost, TensorFlow, NLTK, PyTorch, HuggingFace Transformers
+
+**Development & Deployment:**
+<br>
+Django, Flask, Requests, FastAPI, Gunicorn
+<br>
 
 **MLOps & Workflow Orchestration:**
 <br>
 Docker, Kubernetes, Apache Airflow, ZenML, MLflow
 <br>
-<br>
-**Development & Deployment:**
-<br>
-Django, Flask, Requests, FastAPI, Gunicorn
-<br>
-<br>
+
 **Big Data & Cloud:**
 <br>
 Apache Spark, Google Cloud Platform (App Engine, Compute Engine, Cloud Run)
+<br>
+
+**Statistical Modeling:**  
+Statsmodels, Prophet , StatsForecast
+<br>
+
+**Web Scraping and Data Extraction**<br>
+Beautiful Soup, Selenium
 <br>
 <br>
 **Development & Notebooks:**
