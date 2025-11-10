@@ -5,7 +5,7 @@ Brazilian 🇧🇷 Data Scientist.
 
 ---
 
-## 💡 Skills & Tools 
+## Skills & Tools 
 <div style="display: flex; justify-content: center;">
   <div style="display: flex; gap: 80px; align-items: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="45" height="45">
