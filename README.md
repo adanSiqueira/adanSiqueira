@@ -23,7 +23,6 @@ Brazilian 🇧🇷 Data Scientist.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" width="45" height="45">
     <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/django/django-plain-wordmark.svg" width="45" height="45">
     <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" width="45" height="45">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original-wordmark.svg" width="45" height="45">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg" width="45" height="45">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="30" height="30" style="align-self: flex-start">
   </div>
