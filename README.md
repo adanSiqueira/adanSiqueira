@@ -40,7 +40,7 @@ Scikit-learn, XGBoost, TensorFlow, NLTK, PyTorch, HuggingFace Transformers
 
 **Development & Deployment:**
 <br>
-FastAPI, Django, Flask, Requests, Gunicorn
+FastAPI, Django, Flask, Requests, Httpx
 <br>
 
 **MLOps & Workflow Orchestration:**
