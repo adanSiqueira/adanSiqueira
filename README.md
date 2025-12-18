@@ -1,4 +1,8 @@
-## Hello, I'm Adan. 
+<h2>
+Hello, I'm Adan. <a href="https://www.linkedin.com/in/adan-siqueira/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30" />
+</a></h2>
+
 Brazilian 🇧🇷 Data Scientist.
 <br>Former Officer of the Brazilian Army 🎖️, who migrated from military discipline to data discipline.
 <br>Making sense of any messy datasets 😉
@@ -68,5 +72,4 @@ Jupyter Notebook
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adan-siqueira/)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adanSiqueira&layout=compact)
